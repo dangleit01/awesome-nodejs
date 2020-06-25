@@ -115,7 +115,6 @@
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
 6/25/2020 - 6/28/2020 (done 6/25/2020)
 - [dat](https://github.com/datproject/dat-node) - Real-time replication and versioning for data sets.
-6/25/2020 - 6/28/2020
 - [ipfs](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
 - [stackgl](https://github.com/stackgl) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
@@ -202,6 +201,7 @@
 ### Functional programming
 
 - [lodash](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
+6/25/2020 - 6/28/2020
 - [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
 - [Ramda](https://github.com/ramda/ramda) - Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
 - [Folktale](https://github.com/origamitower/folktale) - Suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.
