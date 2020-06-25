@@ -109,12 +109,13 @@
 ## Packages
 
 ### Mad science
-6/22/2020 - 6/29/2020 (done 6/25/2020)
+
 - [webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for Node.js and the browser.
-6/25/2020 - 6/28/2020 (done 6/25/2020)
+6/22/2020 - 6/29/2020 (done 6/25/2020)
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
-6/25/2020 - 6/28/2020
+6/25/2020 - 6/28/2020 (done 6/25/2020)
 - [dat](https://github.com/datproject/dat-node) - Real-time replication and versioning for data sets.
+6/25/2020 - 6/28/2020
 - [ipfs](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
 - [stackgl](https://github.com/stackgl) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
